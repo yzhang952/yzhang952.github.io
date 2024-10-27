@@ -11,11 +11,11 @@ Life as we know it, along with its extensive capabilities, is templated by a gen
 
 This vision is the foundation of my research program. My lab will establish an integrated framework focused on:
 
-1. Assembling synthetic biosystems from the ground up using genome templates
-2. Composing adaptive genomes to enable plug-and-play engineering
-3, Implementing proteome and structure-guided characterization pipelines to assess these systems. 
+1. Assembling synthetic biosystems from the ground up using genome templates.
+2. Composing adaptive genomes to enable plug-and-play engineering.
+3. Implementing proteome and structure-guided characterization pipelines to assess these systems. 
 
 
 This integrative approach will allow us to rapidly design and deploy synthetic biosystems to tackle pressing grand challenges, starting with antibiotic resistance.
 
-![ ](images/CoverFigure.png)
+[ ](images/CoverFigure.png)
