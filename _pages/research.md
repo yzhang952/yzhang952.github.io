@@ -18,4 +18,4 @@ This vision is the foundation of my research program. My lab will establish an i
 
 This integrative approach will allow us to rapidly design and deploy synthetic biosystems to tackle pressing grand challenges, starting with antibiotic resistance.
 
-[here](images/CoverFigure.png)
+![](images/CoverFigure.png)
