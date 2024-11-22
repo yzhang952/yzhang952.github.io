@@ -116,6 +116,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - images/
+  - *.png
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
