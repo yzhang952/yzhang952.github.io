@@ -13,3 +13,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Behind the Paper"
+    url: /behind_the_paper/
+
+  - title: "Talks"
+    url: /talks/
