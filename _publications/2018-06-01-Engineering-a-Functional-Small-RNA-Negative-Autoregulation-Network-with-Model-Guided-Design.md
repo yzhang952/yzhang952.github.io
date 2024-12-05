@@ -2,6 +2,7 @@
 title: "Engineering a Functional Small RNA Negative Autoregulation Network with Model-Guided Design"
 collection: publications
 permalink: /publication/2018-06-01-Engineering-a-Functional-Small-RNA-Negative-Autoregulation-Network-with-Model-Guided-Design
+<img src="{{ site.baseurl }}/images/sRNA_NAR.png" alt="Description of image" width="600"/>
 excerpt: 'RNA regulators are powerful components of the synthetic biology toolbox. Here, we expand the repertoire of synthetic gene networks built from these regulators by constructing a transcriptional negative autoregulation (NAR) network out of small RNAs (sRNAs). NAR network motifs are core motifs of natural genetic networks, and are known for reducing network response time and steady state signal. Here we use cell-free transcription–translation (TX-TL) reactions and a computational model to design and prototype sRNA NAR constructs. Using parameter sensitivity analysis, we design a simple set of experiments that allow us to accurately predict NAR function in TX-TL. We transfer successful network designs into Escherichia coli and show that our sRNA transcriptional network reduces both network response time and steady-state gene expression. This work broadens our ability to construct increasingly sophisticated RNA genetic networks with predictable function.'
 date: 2018-06-01
 venue: 'ACS Synthetic Biology'
